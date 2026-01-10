@@ -88,18 +88,16 @@ jupyter notebook world_bank_Data_Analysed.ipynb
 
 ## 📂 Project Structure
 
-```
-├── world_bank_Data_Analysed.ipynb    # Main analysis notebook
-├── README.md                         # This file
-├── requirements.txt                  # Python dependencies
+```                
 ├── data/
 │   ├── API_SP.POP.TOTL_DS2_en_excel_v2_61.xls
 │   └── Metadata_Country_API_SP.POP.TOTL_DS2_en_csv_v2_38144.csv
-└── visualizations/
-    ├── top10_growth.png
-    └── Distribution_of_Total_population_Growth_Rates.png
+├── figures                        # visualizations 
+├── LICENSE.md                     # Authorization to reproduce
+├── README.md                      # Project Documentation
+├── requirements.txt               # Python dependencies
+└──world_bank_Data_Analysed.ipynb  # Main analysis notebook
 ```
-
 ## Results Highlights
 
 ### Regional Distribution (2024)
