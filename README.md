@@ -1,12 +1,13 @@
 [![Status](https://img.shields.io/badge/status-complete-brightgreen?style=flat-square)](https://github.com)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg?style=flat-square)](https://www.python.org)
-[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-ffffff?logo=python&logoColor=blue)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Maps-3F4F75?logo=plotly&logoColor=white)
 # PRODIGY_DS__-01
----
-
-**Author:** Adeyeye Blessing Temidayo
+--
+**Author:** Adeyeye Blessing Temidayo  
 **CIN:** PIT/DEC25/10676
-
+---
 # World Bank Population Analysis (1960-2024)
 
 ## 📌 Project Overview
@@ -85,11 +86,6 @@ jupyter notebook world_bank_Data_Analysed.ipynb
 
 ```
 
-```
-
-```
-
-
 ## 📂 Project Structure
 
 ```
@@ -103,8 +99,6 @@ jupyter notebook world_bank_Data_Analysed.ipynb
     ├── top10_growth.png
     └── Distribution_of_Total_population_Growth_Rates.png
 ```
-
----
 
 ## Results Highlights
 
@@ -131,7 +125,7 @@ jupyter notebook world_bank_Data_Analysed.ipynb
 - **Nigeria:** 447% growth (1960: 45M → 2024: 229M) - Africa's largest
 - **United States:** 85% growth (1960: 180M → 2024: 335M)
 
-## Visualizations
+## 📊Visualizations
 
 The project includes both static and interactive visualizations:
 
@@ -141,6 +135,16 @@ The project includes both static and interactive visualizations:
 4. **Distribution Histogram** - Growth rate patterns with KDE
 5. **Income Group Boxplots** - Growth by economic classification
 6. **Interactive Choropleth Map** - Global growth visualization with hover details
+
+<table>
+    <tr>
+        <img src="figures/Total Population by Region (2024).png" width="400" />
+        <img src="figures/Top 10 Fastest Growing Countries (1960-2024).png" width="400" />
+        <img src="figures/Population Growth Trends by Region (1960-2024).png" width="400" />
+        <img src="figures/Population Growth Distribution by Income Group (1960-2024).png" width="400" />
+        <img src="figures/Distribution of Growth Rates by Region.png" width="400" /> 
+    </tr>
+</table>
 
 ## ⚠️ Limitations
 
